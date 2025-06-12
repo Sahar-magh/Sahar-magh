@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Sahar-magh/Sahar-magh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sahar Maghraoui
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a developer passionate about building backend systems, web apps , and solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+## 🛠️ Skills
+
+- 💻 Languages: Python, Java, JavaScript
+- 🧰 Frameworks: Django, Spring Boot, React
+- 🗃️ Tools: Git, Docker, AWS
+
+## 🌐 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahar-maghraoui/)
+- 📫 Email:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahar-magh&show_icons=true&theme=default)
+
