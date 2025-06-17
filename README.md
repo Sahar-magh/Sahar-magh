@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a developer passionate about building backend 
 ## 🌐 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahar-maghraoui/)
-- 📫 Email:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahar-magh&show_icons=true&theme=default)
 
