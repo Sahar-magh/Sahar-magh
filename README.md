@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! I'm a developer passionate about building backend systems, web apps , and solving problems.
 
-## 🚀 Projects
-
 ## 🛠️ Skills
 
 - 💻 Languages: Python, Java, JavaScript
